@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Nagtode</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Java developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pitch_blender" target="blank"><img src="https://img.shields.io/twitter/follow/pitch_blender?logo=twitter&style=for-the-badge" alt="pitch_blender" /></a> </p>
 
-- 🔭 I’m currently working on **Java Developement**
+- 🔭 I’m currently working on **Java Development**
 
 - 💬 Ask me about **Java, Spring Boot**
 
